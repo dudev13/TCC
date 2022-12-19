@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "261859141845",
+    "project_id": "e-salus-9055a",
+    "storage_bucket": "e-salus-9055a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261859141845:android:aa71d430548e8888245a5c",
+        "android_client_info": {
+          "package_name": "com.example.tccoficial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261859141845-2mg64pg62d36jii29pomf378vtukhauv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tccoficial",
+            "certificate_hash": "b1c667af441b73894d0bd54edf7b876102c5e7e2"
+          }
+        },
+        {
+          "client_id": "261859141845-i4ba852glaend12nbckg9busb3tmng80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPZ_8PDbFT3uceIJBgHz_NYSv9GyMSBX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261859141845-i4ba852glaend12nbckg9busb3tmng80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
